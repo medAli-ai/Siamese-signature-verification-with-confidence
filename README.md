@@ -29,4 +29,4 @@ As an example, the following code pre-process the MCYT dataset with the procedur
 During training a random crop of size 150x220 is taken for each iteration. During test we use the center 150x220 crop.
 
 ## Results
-![Results](https://cdn-images-1.medium.com/max/800/1*LwOBbwGXMZUy6OzkFAPTzw.png)
+![Results](https://github.com/medAli-ai/Siamese-signature-verification-with-confidence/blob/main/Images/results.PNG)
