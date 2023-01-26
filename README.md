@@ -28,4 +28,5 @@ As an example, the following code pre-process the MCYT dataset with the procedur
 
 During training a random crop of size 150x220 is taken for each iteration. During test we use the center 150x220 crop.
 
-Paper Reference: https://arxiv.org/pdf/1707.02131.pdf
+## Results
+![Results](https://cdn-images-1.medium.com/max/800/1*LwOBbwGXMZUy6OzkFAPTzw.png)
