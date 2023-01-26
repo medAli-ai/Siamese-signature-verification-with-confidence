@@ -24,7 +24,7 @@ The functions in this package expect training data to be provided in a single .n
 We provide functions to process some commonly used datasets in the script ```sigver.datasets.process_dataset```. 
 As an example, the following code pre-process the MCYT dataset with the procedure from [1] (remove background, center in canvas and resize to 170x242)
 
-![Data preprocessing](https://cdn-images-1.medium.com/max/800/1*LwOBbwGXMZUy6OzkFAPTzw.png)
+![Data preprocessing](https://github.com/medAli-ai/Siamese-signature-verification-with-confidence/blob/main/Images/processed.png)
 
 During training a random crop of size 150x220 is taken for each iteration. During test we use the center 150x220 crop.
 
