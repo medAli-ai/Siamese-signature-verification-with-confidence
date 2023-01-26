@@ -15,7 +15,7 @@ Here, Cosine similarity is used for Pairwise Distance.
 
 ## Data preprocessing
 
-The functions in this package expect training data to be provided in a single .npz file, with the following components:
+The functions in this notebook expect training data to be provided in a single .npz file, with the following components:
 
 * ```x```: Signature images (numpy array of size N x 1 x H x W)
 * ```y```: The user that produced the signature (numpy array of size N )
