@@ -9,6 +9,9 @@ Parameter updating is mirrored across both sub networks.It is used find the simi
 
 Here, Cosine similarity is used for Pairwise Distance.
 
+You can find link of the code here: 
+https://www.kaggle.com/code/medali1992/veolia-tabnet-baseline-5th-place-private-lb
+
 
 ![Siamese Network](https://cdn-images-1.medium.com/max/800/1*LwOBbwGXMZUy6OzkFAPTzw.png)
 
