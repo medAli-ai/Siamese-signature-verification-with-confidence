@@ -4,7 +4,7 @@ Interesting Paper that deals with Classifying the Signatures as `forged` or `ori
 
 Siamese Neural Network is a class of neural network architectures that has two or more identical sub networks. The Sub Networks have same configuration with the same parameters and weights.
 
-Parameter updating is mirrored across both sub networks.It is used find the similarity of the inputs by comparing its feature vectors.
+Parameter updating is mirrored across both sub networks.It is used to find the similarity of the inputs by comparing its feature vectors.
 *Triplet Loss*, *Euclidean Loss* or *contrastive loss* can be used to find the distance between the feature vectors.
 
 Here, Cosine similarity is used for Pairwise Distance.
